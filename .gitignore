@@ -38,7 +38,7 @@ www/webgazer.js
 *__pycache__/
 *.pyc
 .idea/
-docs/
+#docs/
 dist/*.map
 www/webgazer.js
 dist/*.min.js
